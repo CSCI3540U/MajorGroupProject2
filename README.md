@@ -57,6 +57,8 @@ Topics _must_ be unique.  To ensure this uniqueness, we will have a sign-up Goog
  - XPath injection
  - XML External Entity (XXE)
  - XSLT injection
+ - Command injection
+ - Log injection
  - Race condition
  - Reset Password bypass
  - 2FA bypass
