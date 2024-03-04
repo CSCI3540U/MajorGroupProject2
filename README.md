@@ -80,6 +80,8 @@ You do not need to provide any hints or suggestions within the application, but 
 
 *Note: At least one of the bugs must match the type of vulnerability covered in the presentation.  A list of suggested vulnerabilities is given in the above section, `Presentation`.*
 
+*Note: If you use AI (or get help from somewhere else), please document this in your source code.  Code that you write on your own will be given more credit, so you may need to do a bit more if you are using AI or getting help to compensate.*
+
 *Note: Ideally, the vulnerable web application will be deployed via a Docker image.  However, if that is beyond your skill level you can just submit the resulting web application in this GitHub repository, as long as there is a `HOW_TO_RUN.md` file that includes a complete description on how to run the application from scratch.  Similarly, the command to run the application within Docker should be provided in the `HOW_TO_RUN.md` file.*
 
 For this option, the marking will be done according to the following rubrics:
