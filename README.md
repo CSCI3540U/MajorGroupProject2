@@ -62,7 +62,7 @@ Topics _must_ be unique.  To ensure this uniqueness, we will have a sign-up Goog
  - 2FA bypass
  - Web socket attacks
 
-You are welcome to choose another vulnerability if you like.  The vulnerability must be related to software development, however, to fit with this course.  No operating system, kernel, or network vulnerabilities will be accepted.  Binary exploits will also be accepted, but are not recommended here due to how late in the course these are introduced.
+You are welcome to choose another vulnerability if you like.  The vulnerability must be related to software development, however, to fit with this course.  No operating system, kernel, or network vulnerabilities will be accepted.  Binary exploits will also be accepted, but are not recommended here due to how late in the course these are introduced.  If you are in doubt as to whether your vulnerability is acceptable, you can ask the instructor, but do not wait until nearly the due date to do so!
 
 ### Option 1
 
@@ -73,6 +73,8 @@ For this major project, the group will collaborate on a vulnerable web applicati
 1. The bug exists without any protections in place.
 2. The bug exists with protections, which are bypassable using some of the techniques similar to those described in the lectures for other vulnerabilities.
 3. The bug exists with protections, which fully eliminate the bug (i.e. it is not exploitable).
+
+*Note: Not every vulnerability can fit within this three-level framework.  You can discuss with the instructor alternatives if you feel that it isn't suitable for the vulnerability that you have chosen.*
 
 You do not need to provide any hints or suggestions within the application, but the application should let the user know when they have solved the bug.
 
