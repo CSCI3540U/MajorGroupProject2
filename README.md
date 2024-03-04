@@ -14,7 +14,7 @@ For this project, you are permitted to work in a group of 3-5 students.  Please 
 
 ## Overview
 
-This could has two likely categories of student.
+This course has two likely categories of student.
 
 1. A student who wants to be a software developer, and intends to learn more about vulnerabilities to watch out for, as well as how to protect against attacks.
 2. A student who wants to be a cybersecurity professional, and wants to learn more about attack types and bypassing protections.
