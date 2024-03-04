@@ -27,7 +27,7 @@ Regardless which option you choose, both project types will require a presentati
 
 ### Presentation
 
-Each group will choose one (unique) vulnerability that has not been covered during the lectures.  A presentation will be created which describes the vulnerability, describe how to perform an attack, and how to protect the software so that it is not vulnerable.  The target audience is a senior-level Computer Science student, so you can assume an understanding of programming, databases, etc.
+Each group will choose one (unique) vulnerability that has not been covered during the lectures.  A presentation will be created which describes the vulnerability, describes how to perform an attack, and how to protect the software so that it is not vulnerable.  The target audience is a senior-level Computer Science student, so you can assume an understanding of programming, databases, etc.
 
 Each group will be marked according to the following rubric:
 
