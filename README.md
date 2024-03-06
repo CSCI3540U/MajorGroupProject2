@@ -123,13 +123,15 @@ In order to be as flexible as possible, the platform that each group will use ha
 
 *Note: Any challenges done during the first project by any of the group members, is inadmissible as a challenge for this project.*
 
-Each team member is required to solve a minimum of 8 challenges, and perform a comprehensive write-up for at least one of these challenges.  For the challenge where a write-up is being done, let's call this the focus challenge, be sure that what is submitted is a step-by-step guide on how to solve that challenge, such as would be useful for another student in this course (who is your intended audience).  A video walkthrough is an acceptable substitute for a write-up.  For the other challenges, you can include a simple screenshot or copy/paste of the flag/key.
+Each team member is required to solve a minimum of 8 challenges, and perform a comprehensive write-up for _exactly_ one of these challenges.  For the challenge where a write-up is being done, let's call this the focus challenge, be sure that what is submitted is a step-by-step guide on how to solve that challenge, such as would be useful for another student in this course (who is your intended audience).  If your walkthrough is pretty short, it is probably a sign that your challenge was too easy.  For the focus challenge, at least, it should describe a challenge that you could just barely complete.  We're trying to assess your skills, here.  Doing a warm-up challenge isn't a great way to do that.  A video walkthrough is an acceptable substitute for a write-up, but it must be limited to 10 minutes or less.  
+
+For the other challenges, you can include a simple screenshot of your solution.
 
 *Note: Challenges come in all different sizes and difficulty levels.  It won't be possible to give you a solid number of challenges that is sufficient.  8 is the minimum.  You need to do at least 8 individual challenges.  However, if the challenges are easy then you may need to do more to do enough.  You will need to use your judgement.  Aim for approximately 30 hours of work for each group member.*
 
 Team members can collaborate on some challenges, and are encouraged to do so, but at least the challenge for the write-up should be done on your own with no direct technical assistance (only high-level guidance) from your teammates, other people, AI, etc.  You can consult others for the remaining challenges, and it is also acceptable to use AI to help as long as you did the bulk of the work solving the challenge.  All group members must solve different challenges.
 
-*Note: At least one of the challenges must match the vulnerability covered in the presentation.  A list of suggested vulnerabilities is given in the above section, `Presentation`.*
+*Note: At least one of the challenges must match the vulnerability covered in the presentation, and at least one example of this vulnerability should be the focus of a write-up.  A list of suggested vulnerabilities is given in the above section, `Presentation`.*
 
 Instead of a write-up, you could also record a video of solving the challenge with explanation in voice-over.  In this case, put the video on YouTube (unlisted if you wish), and share the URL in a markdown file.
 
